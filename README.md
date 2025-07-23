@@ -24,10 +24,10 @@ A simple and interactive **Currency Converter** web app built using HTML, CSS, a
 
 ## Folder Structure
 
-currency-converter/
-├── currency_converter.html # UI layout
-├── style.css # Styling
-├── app.js # Logic and API handling
-├── code.js/ # Country codes
-└── README.md # Project documentation
+currency-converter/ <br>
+├── currency_converter.html # UI layout <br>
+├── style.css # Styling <br>
+├── app.js # Logic and API handling <br>
+├── code.js/ # Country codes <br>
+└── README.md # Project documentation <br>
 
